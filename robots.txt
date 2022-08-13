@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://mackenzieen2234.github.io/perdana-2/sitemap.xml
